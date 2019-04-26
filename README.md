@@ -29,3 +29,5 @@ References:
 6. datasets/dataloaders: https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel
 7. DenseNet-169: https://pytorch.org/docs/master_modules/torchvision/models/densenet.html
 8. Training Model: https://github.com/pyaf/
+
+DataFiles can be gotten from : https://stanfordmlgroup.github.io/competitions/mura/
